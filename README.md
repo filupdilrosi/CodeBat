@@ -1,0 +1,2 @@
+# CodeBat
+Mini problem solutions
