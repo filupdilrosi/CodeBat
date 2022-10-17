@@ -1,2 +1,2 @@
 # CodeBat
-Mini problem solutions
+Very easy mini python problem solutions
